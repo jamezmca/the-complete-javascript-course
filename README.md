@@ -5,17 +5,29 @@ The modern JavaScript course for everyone! Master JavaScript with projects, chal
 ## What You'll Learn
 
 [x] Become an advanced, confident, and modern JavaScript developer from scratch.
+
 [x] Build 5 beautiful real-world projects for your portfolio (not boring toy apps).
+
 [x] Become job-ready by understanding how JavaScript really works behind the scenes.
-[x] How to think and work like a developer: problem-solving, researching, workflows
+
+[x] How to think and work like a developer: problem-solving, researching, workflows.
+
 [x] JavaScript fundamentals: variables, if/else, operators, boolean logic, functions,. arrays, objects, loops, strings, etc.
+
 [x] Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc.
+
 [x] Modern OOP: Classes, constructors, prototypal inheritance, etc.
+
 [x] Complex concepts like the 'this' keyword, higher-order functions, closures, etc.
+
 [x] Asynchronous JavaScript: Event loop, promises, async/await and APIs.
+
 [x] How to architect your code using flowcharts and common patterns.
+
 [x] Modern tools for 2024 and beyond: NPM & ES6 modules.
+
 [x] Practice your skills with 50+ challenges and assignments (solutions included).
+
 [x] Get fast and friendly support in the Q&A discord.
 
 ## The Course Includes
