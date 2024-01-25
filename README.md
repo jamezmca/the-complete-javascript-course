@@ -1,6 +1,6 @@
-# The Complete JavaScript Course: Zero to HERO in 2024 🔥
+# The Complete JavaScript Course🔥
 
-The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory; the only course you'll ever need!
+The modern JavaScript course to help you go from Zero to HERO in 2024! Master JavaScript with projects, challenges and theory; the only course you'll ever need!
 
 ## What You'll Learn
 
