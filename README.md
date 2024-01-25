@@ -20,12 +20,12 @@ The modern JavaScript course for everyone! Master JavaScript with projects, chal
 
 ## The Course Includes
 
-🔥 14 hours on-demand video
-⭐️ 25+ coding exercises
-⚡️ Companion JavaScript Notes
-🧪 Access on mobile and TV
-🏆 5 amazing JavaScript projects
-🎉 Certificate of completion
+🔥 14 hours on-demand video.  
+⭐️ 25+ coding exercises.  
+⚡️ Companion JavaScript Notes.  
+🧪 Access on mobile and TV.  
+🏆 5 amazing JavaScript projects.  
+🎉 Certificate of completion.  
 
 ## Who This Course Is For
 
