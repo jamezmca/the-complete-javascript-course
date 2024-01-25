@@ -1,6 +1,6 @@
 # The Complete JavaScript Course🔥
 
-The modern JavaScript course to help you go from Zero to HERO in 2024! Master JavaScript with projects, challenges and theory; the only course you'll ever need!
+The modern JavaScript course to help you go from **Zero to HERO** in 2024! Master JavaScript with projects, challenges and theory; the only course you'll ever need!
 
 ## What You'll Learn
 
@@ -88,7 +88,9 @@ Does any of these look like you? If so, then start this adventure today, and joi
 
 James graduated with an Honors degree in Civil Engineering, and after working a few years as a consultant, decided self-taught coding &  pursue a career as a Software Developer. James runs a [YouTube](https://www.youtube.com/smoljames) channel where he has helped thousands of individuals learn to code and land their very own developer jobs. 
 
-He has over 10 years of private tutoring experience in maths, programming and sciences, having taught students of all ages and capabilities. He believes that education should be about fun and curiousity and helps student learn the art of self-teaching so they can continue to extend their ability beyond his lessons. James is available for contact in his Discord channel, or over on LinkedIn.
+He has over 10 years of private tutoring experience in maths, programming and sciences, having taught students of all ages and capabilities. He believes that education should be about fun and curiousity and helps student learn the art of self-teaching so they can continue to extend their ability beyond his lessons. James is available for contact in his [Discord](https://discord.gg/BYr6gujs4k) channel, or over on [LinkedIn](https://www.linkedin.com/in/jamezmcarthur/).
+
+* https://www.smoljames.com
 
 
 ## Course Curriculum
