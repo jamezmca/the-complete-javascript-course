@@ -162,4 +162,4 @@ He has over 10 years of private tutoring experience in maths, programming and sc
 
 
 <!-- turn it into a link to the course -->
-<!-- ![img-thumbnail](/assets/thumbnail.jpg) -->
+![img-thumbnail](/assets/thumbnail.jpg)
