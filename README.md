@@ -25,7 +25,9 @@ The modern JavaScript course to help you go from **Zero to HERO** in 2024! Maste
 ⚡️ [Companion JavaScript Notes](https://smoljames.com/notes/javascript).  
 🧪 Access on mobile and TV.  
 🏆 5 amazing JavaScript projects.  
+🪄 Access to a [Discord](https://discord.gg/BYr6gujs4k) support community.
 🎉 Certificate of completion.  
+
 
 ## Who This Course Is For
 
