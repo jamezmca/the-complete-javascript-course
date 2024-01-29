@@ -153,7 +153,7 @@ He has over 10 years of private tutoring experience in maths, programming and sc
 - Code an AI chatbot.
 - Program a functional TODO app w. HTML & CSS.
 - Write a custom JSON database.
-- Develop a web server with Node.JS + Express.JS.
+- Develop a stock data web server with Node.JS + Express.JS.
 
 ### 10.0 Future Learning and Extra for Experts
 
