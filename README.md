@@ -103,7 +103,6 @@ He has over 10 years of private tutoring experience in maths, programming and sc
 - About the tutor.
 - Setting up our code editor.
 - How to think like a developer.
-- Debugging (fixing errors).
 
 ### 2.0 Learn basic javascript syntax and concepts
 
