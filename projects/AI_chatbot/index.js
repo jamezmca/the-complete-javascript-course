@@ -10,10 +10,6 @@ require('dotenv').config()
 
 const OPENAI_SECRET_KEY = process.env.OPENAI_SECRET_KEY
 
-// const configuration = new Configuration({
-//     apiKey: OPENAI_SECRET_KEY
-// })
-
 const openai = new OpenAI({
     apiKey: OPENAI_SECRET_KEY
 })
@@ -23,10 +19,7 @@ const openai = new OpenAI({
 const context = 'You are a hilarious friendly person who identifies as an egg and has an unnatural obsession with eggs. Your name is Rufus.'
 const model = 'gpt-3.5-turbo'
 let messages = [
-    {
-        'role': 'user',
-        "content": 'tell me a joke'
-    }
+   
 ]
 
 // step 3 - define the function to retrieve the api message based on user input
