@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Data Webscaper</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Press+Start+2P&display=swap"
+        rel="stylesheet">
+    <style>
+        * {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            color: #202124;
+        }
+
+        h1,
+        h2,
+        h3,
+        input,
+        button {
+            font-family: 'Press Start 2P', system-ui;
+        }
+
+        body {
+            /* min-height: 100vh; */
+            display: flex;
+            flex-direction: column;
+            padding: 14px;
+            gap: 14px;
+        }
+
+        header {
+            display: flex;
+            align-items: stretch;
+        }
+
+        header,
+        main {
+            max-width: 800px;
+            width: 100%;
+            margin: 0 auto;
+            gap: 14px;
+        }
+
+        header input {
+            flex: 1;
+            border-radius: 14px;
+            outline: none;
+            width: 100%;
+        }
+
+        header button {
+            border-radius: 14px;
+            background: transparent;
+            transition-duration: 200ms;
+            cursor: pointer;
+        }
+
+        header button:hover {
+            opacity: 0.7;
+        }
+
+        header button,
+        header input {
+            box-shadow: 2px 2px 6px 2px rgb(235, 250, 255);
+            padding: 14px 18px;
+            border: none;
+            outline: none;
+        }
+
+        p {
+            font-size: 0.9em;
+        }
+
+        @media (min-width: 640px) {
+
+            header button,
+            header input {
+                font-size: 1.2em;
+            }
+
+            p {
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <input id="ticker" placeholder="Enter stock ticker ..." />
+        <button>Search</button>
+    </header>
+    <main></main>
+</body>
+
+</html>

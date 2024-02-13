@@ -20,8 +20,8 @@ The modern JavaScript course to help you go from **Zero to HERO** in 2024! Maste
 
 ## The Course Includes
 
-🔥 14 hours on-demand video.  
-⭐️ 25+ coding exercises.  
+🔥 X hours on-demand video.  
+⭐️ 58 coding exercises.  
 ⚡️ [Companion JavaScript Notes](https://smoljames.com/notes/javascript).  
 🧪 Access on mobile and TV.  
 🏆 5 amazing JavaScript projects.  
@@ -79,10 +79,9 @@ Check out the [course curriculum](#course-curriculum) for an even more detailed 
 ### This is what's also included in the package:
 
 - Up-to-date HD-quality videos, that are easy to search and reference.
-- Professional English captions.
 - Downloadable starter code and final code for each section.
-- Course companion guides.
-- 25+ coding challenges and 25+ assignments to practice your new skills
+- Course companion guides & summary notes.
+- 58+ coding challenges / questions to practice your new skills
 
 Does any of these look like you? If so, then start this adventure today, and join me and numerous other developers in the only JavaScript course that you will ever need!
 

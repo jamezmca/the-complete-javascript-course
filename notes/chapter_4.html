@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Manipulation Practice</title>
+    <script src="chapter_2.js" defer></script>
+
+</head>
+
+<body>
+
+    <h1 id="main-title">DOM Manipulation</h1>
+
+    <form id="form-example" onsubmit="return handleSubmitForm(event)">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name"><br><br>
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age"><br><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <button id="open-modal-btn">Open Modal</button>
+
+    <div id="content-area"></div>
+
+    <textarea id="text-area" rows="4" cols="50">Type some text...</textarea>
+
+    <div id="modal" class="modal" style="display: none;">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <p>Some text in the Modal..</p>
+            <button id="close-modal-btn">Close Modal</button>
+        </div>
+    </div>
+
+    <script>
+
+        let modalBtn = document.getElementById('open-modal-btn')
+        let closeModalBtn = document.getElementById('close-modal-btn')
+        let modal = document.getElementById('modal')
+        let xBtn = document.querySelector('.close')
+        let textArea = document.getElementById('text-area')
+        let nameInput = document.getElementById('name')
+        let ageInput = document.getElementById('age')
+
+        let contentArea = document.getElementById('content-area')
+
+        contentArea.innerHTML = '<h1>Hi mom </h1>'
+        let newHTML = document.querySelector('#content-area h1')
+        newHTML.style.background = 'yellow'
+        newHTML.style.color = 'pink'
+        newHTML.style.padding = '100px'
+
+        function handleOpenModal() {
+            console.log(textArea.value)
+            modal.style.display = 'flex'
+            textArea.value = 'hi mom'
+
+
+        }
+
+        modalBtn.addEventListener('click', handleOpenModal)
+
+        function handleCloseModal() {
+            modal.style.display = 'none'
+        }
+
+        closeModalBtn.addEventListener('click', handleCloseModal)
+        xBtn.addEventListener('click', handleCloseModal)
+
+        function handleSubmitForm(event) {
+            event.preventDefault()
+            console.log('name: ', nameInput.value)
+            console.log('age: ', ageInput.value)
+
+
+        }
+
+
+    </script>
+</body>
+
+</html>
