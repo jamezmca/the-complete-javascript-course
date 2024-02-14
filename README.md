@@ -20,7 +20,7 @@ The modern JavaScript course to help you go from **Zero to HERO** in 2024! Maste
 
 ## The Course Includes
 
-🔥 X hours on-demand video.  
+🔥 9+ hours on-demand video.  
 ⭐️ 58 coding exercises.  
 ⚡️ [Companion JavaScript Notes](https://smoljames.com/notes/javascript).  
 🧪 Access on mobile and TV.  
