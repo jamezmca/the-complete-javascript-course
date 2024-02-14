@@ -81,6 +81,7 @@ Check out the [course curriculum](#course-curriculum) for an even more detailed 
 - Up-to-date HD-quality videos, that are easy to search and reference.
 - Downloadable starter code and final code for each section.
 - Course companion guides & summary notes.
+- Professional English captions (coming soon).
 - 58+ coding challenges / questions to practice your new skills
 
 Does any of these look like you? If so, then start this adventure today, and join me and numerous other developers in the only JavaScript course that you will ever need!
