@@ -163,4 +163,4 @@ He has over 10 years of private tutoring experience in maths, programming and sc
 
 
 <!-- turn it into a link to the course -->
-![img-thumbnail](/assets/thumbnail.jpg)
+[![img-thumbnail](/assets/thumbnail.jpg)](https://www.udemy.com/course/the-complete-javascript-course-zero-to-hero/?referralCode=F6229ABBDBD16EB43FA4)
